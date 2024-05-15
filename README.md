@@ -1,7 +1,7 @@
 # SecureAI Workshops
 
-SecureAI is a cybersecurity and privacy training program designed for AI professionals
-and researhers to equip them with the knowledge and skills to build AI systems that are sound
+**SecureAI** is a cybersecurity and privacy training program designed for AI professionals
+and researchers to equip them with the knowledge and skills to build AI systems that are sound
 and secure.
 
 Each workshop has a lab component, where participants will get hands-on experience
