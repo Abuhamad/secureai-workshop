@@ -6,7 +6,7 @@ and secure.
 
 Each workshop has a lab component, where participants will get hands-on experience
 with AI models, allowing them to apply the concepts discussed during the panel session
-of each workshop.This github repo will house the material an code needed to run the experiments
+of each workshop. This github repo will house the material and code needed to run the experiments
 for the SecureAI workshops.
 
 To learn more about each individual workshop, please see the website:
